@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+/*
+Theme Name: Twenty Fourteen Child
+Template: twentyfourteen
+Theme URI: 
+Author: MyName
+Author URI: 
+Description: TwentyFourteen用子テーマ
+Version: 1.0
+Tags: TwentyFourteen Child Theme
+*/
+
+body {
+}
+
+
+
+
+
+/**
+ * 11.0 Media Queries
+ * -----------------------------------------------------------------------------
+ */
+
+/* Does the same thing as <meta name="viewport" content="width=device-width">,
+ * but in the future W3C standard way. -ms- prefix is required for IE10+ to
+ * render responsive styling in Windows 8 "snapped" views; IE10+ does not honor
+ * the meta tag. See http://core.trac.wordpress.org/ticket/25888.
+ */
+@-ms-viewport {
+	width: device-width;
+}
+
+@viewport {
+	width: device-width;
+}
+
+@media screen and (max-width: 400px) {
+}
+
+@media screen and (min-width: 401px) {
+}
+
+@media screen and (min-width: 594px) {
+}
+
+@media screen and (min-width: 673px) {
+}
+
+@media screen and (min-width: 783px) {
+}
+
+@media screen and (min-width: 810px) {
+}
+
+@media screen and (min-width: 846px) {
+}
+
+@media screen and (min-width: 1008px) {
+}
+
+@media screen and (min-width: 1040px) {
+}
+
+@media screen and (min-width: 1080px) {
+}
+
+@media screen and (min-width: 1110px) {
+}
+
+@media screen and (min-width: 1218px) {
+}
+
+@media screen and (min-width: 1260px) {
+}
+
+
+/**
+ * 12.0 Print
+ * -----------------------------------------------------------------------------
+ */
+
+@media print {
+}
